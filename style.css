@@ -158,8 +158,6 @@ body{
 .hero-image-wrapper{
     display: flex;
     align-items: center;
-    
-
 }
 
 .hero-image{
@@ -248,8 +246,7 @@ body{
     justify-content: center;
     align-items: center;
     color: #16a34a;
-    font-size: 1.9rem;
-    
+    font-size: 1.9rem;  
 }
 
 /* Everything */
@@ -336,8 +333,6 @@ body{
     
 }
 
-
-
 .create-button {
     background-color: #fff;
     padding: 1.5rem 2.5rem;
@@ -348,7 +343,6 @@ body{
     border-radius: 5px;
 
 }
-
 
 .footer-container {
     display: flex;
